@@ -1,0 +1,26 @@
+{
+	"about": {
+		"title": "Engines AWS Arena",
+		"explanation": "AWS blueprint for bootstrapping a Spaces arena"
+	},
+	"bindings": [
+		{
+			"identifier": "runtime",
+			"target": {
+				"repository": "https://github.com/v2Blueprints/aws-rt.git"
+			}
+		},
+		{
+			"identifier": "packing",
+			"target": {
+				"repository": "https://github.com/v2Blueprints/docker.git"
+			}
+		},
+		{
+			"identifier": "aws_vpc",
+			"target": {
+				"repository": "https://github.com/v2Blueprints/aws_vpc.git"
+			}
+		}
+	]
+}
