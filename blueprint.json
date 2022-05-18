@@ -17,9 +17,9 @@
 			}
 		},
 		{
-			"identifier": "aws_vpc",
+			"identifier": "aws-vpc",
 			"target": {
-				"repository": "https://github.com/v2Blueprints/aws_vpc.git"
+				"repository": "https://github.com/v2Blueprints/aws-vpc.git"
 			}
 		}
 	]
